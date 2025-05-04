@@ -8,6 +8,7 @@ I'm an IoT developer and aspiring junior fullstack developer passionate about so
 - **Languages:** Python, JavaScript, C++, Java (learning)
 - **Frameworks & Tools:** React Native, Flask, Ext JS, PHP, Kotlin (Android), Git, Docker (basic), AWS (basic), CI/CD (learning)
 - **Databases:** MySQL, MongoDB (learning)
+- **APIs**: Developed both **RESTful** and **non-RESTful** APIs for backend logic, database interaction, and real-time functionality
 - **Other Interests:** Embedded systems, system integration, test-driven development
 
 ---
